@@ -1,9 +1,0 @@
-R_DEF: Internal format may change without notice
-local
-string app_name
-string supabase_anon_key
-string supabase_url
-style Base.Theme.SmartDriveKenya
-style Theme.SmartDriveKenya
-xml backup_rules
-xml data_extraction_rules
